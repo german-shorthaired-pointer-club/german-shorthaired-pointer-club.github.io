@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://german-shorthaired-pointer-club.github.io/sitemap.xml
